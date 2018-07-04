@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "homepage": "https://strike3.xyz",
+  "license": "MIT",
+  "url": "https://storage.garrypettet.com/strike3/strike3-110-win64.zip",
+  "hash": "074f229004c1e1c3d0584fbaf4185cd68e7b86c67e1473f2e887018ca91730c0",
+  "bin": "strike3.exe"
+}
