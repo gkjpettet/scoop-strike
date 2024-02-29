@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "homepage": "https://strike3.xyz",
+  "version": "1.2.0",
+  "homepage": "https://garrypettet.com/projects/strike.html",
   "license": "MIT",
-  "url": "https://storage.garrypettet.com/strike3/strike3-114-win64.zip",
+  "url": "https://storage.garrypettet.com/strike/strike-120-win64.zip",
   "hash": "4f90967017ac116edf16be542995a2389d584124e16c0f7a5cdc2ec2eda4e4eb",
-  "bin": "strike3.exe"
+  "bin": "strike.exe"
 }
