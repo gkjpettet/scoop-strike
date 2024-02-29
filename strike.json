@@ -2,7 +2,7 @@
   "version": "1.2.2",
   "homepage": "https://garrypettet.com/projects/strike.html",
   "license": "MIT",
-  "url": "https://github.com/gkjpettet/strike/releases/download/1.2.2/strike-122-win64.zip",
-  "hash": "96ff60b0f699a7c13fd82ccf6409d6f910afba5f2b8d5c98d69fa03cdf3be8f5",
+  "url": "https://github.com/gkjpettet/strike/releases/download/1.2.2b/strike-122-win64.zip",
+  "hash": "c8394613ae8ebefff6e85ecd93cdd1da7beab783badb63282c9fa4e7632ef59a",
   "bin": "strike.exe"
 }
