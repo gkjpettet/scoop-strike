@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "homepage": "https://garrypettet.com/projects/strike.html",
   "license": "MIT",
-  "url": "https://github.com/gkjpettet/strike/releases/download/1.5.0/strike-150-win64.zip",
-  "hash": "0a7e7a0a2ea929bf5f8419734c5c26f7cfd5568de28cb1cbd5d0fa2e1b23405b",
+  "url": "https://github.com/gkjpettet/strike/releases/download/1.6.0/strike-160-win64.zip",
+  "hash": "43b033c386da811a75f8ed2a2fbd8aac470d78624c453a0f450417c4b3dc89b4",
   "bin": "strike.exe"
 }
